@@ -1,6 +1,5 @@
 # The WebLISP Game Editor
-
-This repository will contain the source code for the WebLISP Game Editor, a powerful visual tool for creating 2D and 3D games using the WebLISP language.
+The WebLISP game editor repository will contain the source code for the WebLISP game editor. The editor will be designed to be an easy-to-use, high-performance tool for game developers. It will include a range of features such as a visual editor for designing game levels, an asset manager for managing game assets, and a scripting interface for creating custom game logic. The editor will be built on top of WebLISP language and will also act as a demonstration of what WebLISP can do. The repository will also include documentation on how to use the game editor and how to contribute to its development.
 
 ## Features
 The Game Editor will provide a rich set of features that make it easy to create high-quality games, including:
