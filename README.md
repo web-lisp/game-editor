@@ -21,4 +21,4 @@ Some of the features we plan to implement include:
 - Export options
 - support for 2D game development
 - support for 3D game development
-- Plugin system with more pre-built plugins
+- Plugin system with pre-built plugins
