@@ -14,10 +14,11 @@ The Game Editor will provide a rich set of features that make it easy to create 
 ## Contributing
 If you're interested in contributing to the Game Editor project, please check out the CONTRIBUTING.md file for more information on how to get involved.
 
-Roadmap
-The Game Editor is still in early development, but we have big plans for its future. Some of the upcoming features we plan to implement include:
+## Roadmap
+Some of the features we plan to implement include:
 
-- Improved support for 3D game development
-- Expanded plugin system with more pre-built plugins
-- More export options for popular game engines and platforms
-- Better integration with the WebLISP language and standard library
+- prototype
+- Export options
+- support for 2D game development
+- support for 3D game development
+- Plugin system with more pre-built plugins
